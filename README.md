@@ -1,2 +1,27 @@
-# rawahel-app-releases
-Official Rawahel staff Android releases. APK downloads only; no application source code or user data.
+# رواحل — تطبيق إدارة الدفعات
+
+تطبيق أندرويد لمسؤولي المعاهد: طلاب الدفعة وواتساب، الغياب، الدرجات، وإحصائيات الغياب.
+
+## تحميل التطبيق
+
+- [تحميل للأجهزة الحديثة — ARM64](https://github.com/AbdallahTaha1/rawahel-app-releases/releases/latest/download/rawahel-arm64.apk)
+- [تحميل لأجهزة ARM ذات 32 بت — ARM32](https://github.com/AbdallahTaha1/rawahel-app-releases/releases/latest/download/rawahel-arm32.apk)
+- [تفاصيل آخر إصدار وجميع الملفات](https://github.com/AbdallahTaha1/rawahel-app-releases/releases/latest)
+
+يعمل على Android 7 أو أحدث. لا تحتاج حساب GitHub للتحميل؛ استخدام التطبيق يحتاج حساب رواحل وصلاحيات المعهد والدفعات.
+
+ثبّت الملف فوق النسخة الحالية **دون حذف التطبيق أو مسح بياناته**. قد يطلب أندرويد السماح للمتصفح بتثبيت التطبيقات؛ اسمح بذلك عند تثبيت الملف الموثوق، ويمكنك إلغاء الإذن بعدها. عند ظهور خطأ في التثبيت تواصل مع الإدارة ولا تحذف التطبيق إذا كان به حضور لم تتم مزامنته.
+
+ابتداءً من نسخة 1.2.5 يظهر تنبيه اختياري عند توفر إصدار أحدث، مع زر «تحديث الآن». التثبيت يتم بموافقتك، وليس تلقائيًا. النسخ الأقدم تحتاج تثبيت هذا التحديث أول مرة من الرابط.
+
+هذا المستودع يحتوي ملفات التثبيت ومعلومات الإصدار فقط، وليس كود النظام أو بيانات الطلاب. لا يرسل فحص التحديث حساب المستخدم أو هويته أو إصداره إلى النظام؛ GitHub يستضيف التنزيلات ويطبق سياساته المعتادة.
+
+## التحقق التقني
+
+هوية التطبيق: `org.rawahel.rawahel_staff`.
+
+بصمة شهادة التوقيع SHA-256:
+
+`a7bef6c015d7110cb8215cf22fa114225957cbafaf9bf497c6a834469bf14e9f`
+
+[ملف آخر نسخة](https://github.com/AbdallahTaha1/rawahel-app-releases/releases/latest/download/latest.json) يحتوي رقم الإصدار وروابط الملفات وبصماتها. نسخة x86_64 مخصصة للمحاكيات والأجهزة المتوافقة.
